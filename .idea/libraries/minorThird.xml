@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="minorThird">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/minorThird.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/minorThird.jar!/edu/cmu/minorthird/text/mixup/testcases" />
+    </SOURCES>
+  </library>
+</component>
